@@ -25,10 +25,10 @@
   1. 그 외에도 아래쪽(복부), 안쪽(medial, parasternal)으로 림프가 환류됩니다.
 * 유방의 혈류 공급은 다음과 같습니다.
   1. Axillary a.의 분지 중 다음이 breast branch를 냅니다.
-    1. Lat. thoracic a.
-    1. Thoracoacrominal a.의 pectoral branch
-    1. Sup. thoracic a.
-    1. Subscapular a.
+      1. Lat. thoracic a.
+      1. Thoracoacrominal a.의 pectoral branch
+      1. Sup. thoracic a.
+      1. Subscapular a.
   1. internal thoracic a.의 breast branch
   1. intercostal a.의 breast branch
 
@@ -43,7 +43,7 @@
 
 ## 갈비뼈(rib cage)
 
-* Rib I부터 Rib VII까지는 true rib이라고 하며, 그 아래는 false rib이라고 합니다. true rib은 cartilage를 통해 직접 sternum과 이어지는데 반해 false rib을 그렇지 않기 때문입니다. false rib 중에 Rib VIII부터 X까지는 Rib VII의 cartilage에 얹혀서 sternum에 닿고, Rib XI과 XII는 아예 cartilage가 없기 때문에 floating rib이라고 합니다.
+* Rib I부터 Rib VII까지는 true rib이라고 하며, 그 아래는 false rib이라고 합니다. true rib은 cartilage를 통해 직접 sternum과 이어지는데 반해 false rib을 그렇지 않기 때문입니다. false rib 중에 Rib VIII부터 X까지는 Rib VII의 cartilage에 얹혀서 sternum에 닿고, Rib XI과 XII는 아예 cartilage가 없기 때문에 floating rib이라고 합니다.
 * Rib에 있는 갈비뼈 고랑(Costal groove)의 모양과 위치를 잠시 떠올려 보시길 바랍니다.
 
 ### 갈비사이공간(intercostal space)
