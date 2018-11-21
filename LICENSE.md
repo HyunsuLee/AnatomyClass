@@ -1,4 +1,4 @@
-Coryright 2017 Hyunsu Lee
+Copyright 2017 Hyunsu Lee
 Creative commons
 
 Attribution + Noncommercial + ShareAlike

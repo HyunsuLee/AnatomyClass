@@ -16,7 +16,7 @@
 ### 해부학(1)
 
 1. [ ] [**가슴벽**](/thoracic_wall_anato.md)
-2. [ ] [**허파**](/lung_anato.md)
+2. [**허파**](/lung_anato.md)
 3. [ ] [**세로칸**](/mediastinum_anato.md)
 4. [ ] [**심장**](/heart_anato.md)
 
