@@ -1,5 +1,7 @@
 # 세로칸의 해부학
 
+* [슬라이드링크](https://www.icloud.com/keynote/0aoUsf4rBOnrcJeY_gzhf5AEQ#Mediastinum)
+
 ## 강의소개
 
 * 이번 시간에는 가슴(thorax)에서 허파 사이에 있는 세로칸에 대해 배웁니다.

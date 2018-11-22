@@ -1,5 +1,8 @@
 # 가슴벽의 해부학
 
+* [슬라이드 링크](https://www.icloud.com/keynote/0GlJrFEjDmw9Erup2mzJZ5p-A#Thoracic_wall)
+* [TBL 슬라이드 링크](https://www.icloud.com/keynote/046RaP72FGD76PERI4fG4nB3A#thorax_case_TBL)
+
 ## 강의 소개
 
 * 이번 시간은 가슴 영역(흉부, thorax) 해부 강의의 첫번째 시간입니다. 총 4번의 강의가 각 두시간씩 진행될 예정입니다. 가슴벽, 허파, 세로칸, 그리고 심장의 순으로 강의개 진행됩니다.
@@ -22,7 +25,7 @@
 
 * 림프절은 유방암이 전이되는 주요 경로이기 때문에 중요합니다. 하지만 해부학적으로는 관찰하기 힘들고, 위치에 따른 림프절의 이름을 외우는 것이 아주 중요하다고 말하기는 힘듭니다. 그럼에도 불구하고 유방암이 전이될 수 있는 주요 경로에 대해 알아둘 필요는 있습니다.
   1. 위쪽과 가쪽(Axilla) - Pectoral, Lateral, Central, Apical axillary node는 전부 axillary process나 axillary vessel을 따라 분포되어있는 림프절입니다. 따라서 axilla region을 따라 subclavian으로 합류되는 림프 경로가 가장 중요하다고 할 수 있습니다.
-  1. 그 외에도 아래쪽(복부), 안쪽(medial, parasternal)으로 림프가 환류됩니다.
+  2. 그 외에도 아래쪽(복부), 안쪽(medial, parasternal)으로 림프가 환류됩니다.
 * 유방의 혈류 공급은 다음과 같습니다.
   1. Axillary a.의 분지 중 다음이 breast branch를 냅니다.
       1. Lat. thoracic a.

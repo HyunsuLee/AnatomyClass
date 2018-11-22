@@ -1,5 +1,7 @@
 # 가슴막 공간과 허파의 해부학
 
+* [슬라이드 링크](https://www.icloud.com/keynote/0ZbRfT0YzrslIjWmJYaerQLyw#Lung)
+  
 ## 강의소개
 
 * 이번 시간에는 허파와 그것을 둘러싼 가슴막 공간에 대해 배웁니다.
@@ -18,7 +20,7 @@
 * 겉에서 보았을 때 두 개의 가상의 선을 가슴에 그을 수 있습니다.
 
 1. Midclavicular line - clavicle 가운데에서 세로로 아래로 잇는 가상의 선.
-1. Midaxillary line - ant.와 post. axillary fold의 가운데에서 세로로 아래로 잇는 가상의 선.
+2. Midaxillary line - ant.와 post. axillary fold의 가운데에서 세로로 아래로 잇는 가상의 선.
 
 * 이 두 개의 선은 EKG(심전도) 전극 부착 시, 또는 각종 가슴막 공간으로 접근하는 술기를 시행할 때 기준이 되는 선이므로 정의를 잘 알아 두세요.
 
