@@ -1,5 +1,7 @@
 # 신경계통의 조직학
 
+* [슬라이드링크](https://www.icloud.com/keynote/0iIPLCCBCVZv-rUd_pYM1bAtA#Neuro_histology)
+
 ## 강의 소개
 
 * 이번 강의에서 **생각하는 사람**의 물질적 기반이라고 할 수 있는 **신경계통**에서 대해 공부합니다.
@@ -21,9 +23,9 @@
 * 구조적 분류는 수상돌기와 축삭의 수와 형태로 분류합니다.
 
   1. 뭇극신경세포(multipolar neuron)
-  1. 양극신경세포(bipolar neuron)
-  1. 홑극신경세포(unipolar neuron)
-  1. anaxonic neuron
+  2. 양극신경세포(bipolar neuron)
+  3. 홑극신경세포(unipolar neuron)
+  4. anaxonic neuron
 
 * 기능적 분류는 다음과 같습니다.
 
