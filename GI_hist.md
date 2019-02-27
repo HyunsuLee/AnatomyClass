@@ -1,5 +1,7 @@
 # 소화계통의 조직학
 
+* [강의슬라이드링크](https://www.icloud.com/keynote/0QA8WPnKGsVgJwqiwqD72-JVg#Diges_hist_19FEB28)
+
 ## 강의 소개
 
 * 이번 시간에는 소화계통 전제의 조직학적 구조에 대해 배웁니다.
