@@ -1,6 +1,7 @@
 # 소화계통의 조직학
 
-* [강의슬라이드링크](https://www.icloud.com/keynote/0QA8WPnKGsVgJwqiwqD72-JVg#Diges_hist_19FEB28)
+* [첫번째 강의 슬라이드 링크](https://www.icloud.com/keynote/0QA8WPnKGsVgJwqiwqD72-JVg#Diges_hist_19FEB28)
+* [두번째 강의 슬라이드 링크](https://www.icloud.com/keynote/0IrpvziY8AfUK0kKw3J0WYc4w#Diges_hist_19MAR05)
 
 ## 강의 소개
 
